@@ -31,7 +31,7 @@ The dashboard is organized into **two insight-packed sheets** designed for futur
 
 ---
 
-### 🔵 Sheet 1: Channel Performance & Technology Impact
+### Sheet 1: Channel Performance & Technology Impact
 
 #### 1. **KPI Cards – Snapshot of Channel Metrics**
 - **Goal:** Present quick metrics including total channels, total subscribers, average engagement, and average content value.
@@ -50,7 +50,7 @@ The dashboard is organized into **two insight-packed sheets** designed for futur
 
 ---
 
-### 🟣 Sheet 2: Innovation, Length Impact & Tech Spread
+### Sheet 2: Innovation, Length Impact & Tech Spread
 
 #### 1. **Avg Video Length vs Content Value – Line + Column Combo**
 - **Goal:** Analyze whether video length influences the perceived value of content.
